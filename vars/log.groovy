@@ -1,11 +1,11 @@
 def info(String message) {
-    echo "INFO: ${message}"
+    echo 'INFO: ${message}'
 }
 
 def warning(String message) {
-    echo "WARNING: ${message}"
+    echo 'WARNING: ${message}'
 }
 
 def error(String message) {
-    echo "ERROR: ${message}"
+    echo 'ERROR: ${message}'
 }
