@@ -1,7 +1,7 @@
 package io.oferto
 
 class Docker {
-  def build(String image, String version=1.1.0) {
+  def build(String image, String version="latest") {
     return "Building image ${image}:${version} ..."
   }
 }
