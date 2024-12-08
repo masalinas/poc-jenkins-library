@@ -1,4 +1,3 @@
-#!/usr/bin/env groovy
 package io.oferto
 
 public class Docker {
